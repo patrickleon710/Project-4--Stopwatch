@@ -16,7 +16,7 @@ body {
 .container {
     background: #fff;
     border-radius: 30px;
-    height: 450px;
+    height: 250px;
     width: 65%;
 }
 
@@ -47,7 +47,9 @@ button i {
     background: green;
 }
 
-#pause {}
+#pause {
+    background: orange;
+}
 
 #reset {
     background: red;
